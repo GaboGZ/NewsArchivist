@@ -215,7 +215,7 @@ def extract_content(website):
                     </div>
                 </div>
             </body>          
-        </html>'''
+        </html>
     """
     # Write some content
     html_file.write(header)
